@@ -1,0 +1,4 @@
+[
+  {"_id":"A-100","contact":{"firstName":"Ava","lastName":"Demo","email":"ava@example.test"},"status":"ACTIVE","profile":{"tier":"STANDARD"}},
+  {"_id":"A-101","contact":{"firstName":"Test","lastName":"Filtered","email":"TEST-user@example.test"},"status":"ACTIVE","profile":{"tier":"INTERNAL"}}
+]

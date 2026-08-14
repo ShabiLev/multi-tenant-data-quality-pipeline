@@ -1,0 +1,4 @@
+[
+  {"_id":"C-200","contact":{"firstName":"Ben","lastName":"Sample","email":"ben@example.test"},"status":"ACTIVE","preferences":{"language":"en"}},
+  {"_id":"C-201","contact":{"firstName":"Maya","lastName":"Sample","email":"maya@example.test"},"status":"INACTIVE","preferences":{"language":"he"}}
+]
