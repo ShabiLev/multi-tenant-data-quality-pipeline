@@ -1,0 +1,4 @@
+[
+  {"_id":"G-300","contact":{"firstName":"Noah","lastName":"Synthetic","email":"noah@example.test"},"status":"ACTIVE","profile":{"tier":"PREMIUM"},"tags":["demo","portfolio"]},
+  {"_id":"G-301","contact":{"firstName":"Shabi","lastName":"Filtered","email":"SHABI+demo@example.test"},"status":"ACTIVE"}
+]

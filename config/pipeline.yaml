@@ -1,0 +1,12 @@
+tenants:
+  acme: Acme Parking
+  contoso: Contoso Mobility
+  globex: Globex Demo
+
+filters:
+  - field: contact.email
+    starts_with: TEST
+    case_insensitive: true
+  - field: contact.email
+    starts_with: SHABI+
+    case_insensitive: true
